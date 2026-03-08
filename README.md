@@ -60,3 +60,14 @@ If this project interests you, feel free to connect.
 
 — Al Arrington
 Founder
+## Intellectual Property Status
+
+ProblemSolverAI is a patent-pending invention.
+
+A provisional patent application has been filed and the intellectual property is assigned to Go Now Solutions LLC.
+
+This repository intentionally shares only high-level information about the concept and does not disclose proprietary implementation details.
+
+Technical architecture, algorithms, datasets, and system design remain confidential.
+
+Serious collaborators may discuss development opportunities under appropriate agreements.
